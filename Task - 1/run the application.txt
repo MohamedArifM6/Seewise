@@ -1,0 +1,5 @@
+cd ven\scripts\activate  => Activate the virtual environment
+
+cd..  => Move back to the task1 directory
+
+python manage.py runserver  => Start the Django development server
